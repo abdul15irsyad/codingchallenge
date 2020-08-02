@@ -35,7 +35,7 @@ array.forEach(item => arrayForEach.push(item * 2))
 console.log('array forEach:', arrayForEach)
 
 // includes
-let arrayIncludes = array.includes(1, 0)
+let arrayIncludes = array.includes(1, 3)
 console.log('array Includes:', arrayIncludes)
 
 // index of
